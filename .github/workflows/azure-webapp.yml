@@ -1,4 +1,4 @@
-name: miazure-app-api01
+name: Build and Deploy FastAPI App to Azure WebApp - miazure-app-api01
 
 on:
   push:
